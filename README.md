@@ -21,9 +21,9 @@ This project demonstrates the transition of a legacy generic product into the Au
 
 | Module | Document Title | Description |
 | :--- | :--- | :--- |
-| **M1.0.1** | [**Cover Letter**](https://github.com/gsopas/Regulatory-Portfolio/raw/main/dossier/M1_Admin/M1.0.1_Cover_Letter.pdf) | Formal TGA submission letter (Sequence 0000) |
-| **M1.0.1** | [**Note to Evaluator**](https://github.com/gsopas/Regulatory-Portfolio/dossier/M1_Admin/M1.0.1_Note_to_Evaluator.pdf) | Navigational guide for stability justifications. |
-| **M2.3** | [**Quality Overall Summary**](https://github.com/gsopas/Regulatory-Portfolio/dossier/M2_Summaries/M2.3_Quality_Overall_Summary.pdf) |Scientific defense of API purity and formulation stability. |
+| **M1.0.1** | [**Cover Letter**](https://github.com/gsopas/Regulatory-Portfolio/blob/main/dossier/M1_Admin/M1.0.1_Cover_Letter.pdf) | Formal TGA submission letter (Sequence 0000) |
+| **M1.0.1** | [**Note to Evaluator**](https://github.com/gsopas/Regulatory-Portfolio/blob/main/dossier/M1_Admin/M1.0.1_Note_to_Evaluator.pdf) | Navigational guide for stability justifications. |
+| **M2.3** | [**Quality Overall Summary**](https://github.com/gsopas/Regulatory-Portfolio/blob/main/dossier/M2_Summaries/M2.3_Quality_Overall_Summary.pdf) |Scientific defense of API purity and formulation stability. |
 
 ### 📋 Project Strategic Overview
 | Component | Status | Regulatory Action |
