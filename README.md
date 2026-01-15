@@ -40,11 +40,36 @@ This project demonstrates the transition of a legacy generic product into the Au
 
 ---
 
+---
+
+## 📁 Featured Project 2: PZL-Depot (Novel Hormone Delivery Strategy)
+This project demonstrates a high-level **"Rogue" Regulatory Strategy**: utilizing coordination chemistry and pharmacokinetic (PK) bridging to secure a **Biowaiver** for a novel hormone depot, significantly reducing clinical development timelines.
+
+### 📂 eCTD Dossier (Project Deliverables)
+*Click below to view the formal regulatory documents:*
+
+| Module | Document Title | Description |
+| :--- | :--- | :--- |
+| **M1.3.1** | [**Product Information (PI)**](./Project_2_PZL_Depot/M1_Admin/M1.3.1_Product_Information.pdf) | Clinical guidance for Narrow Therapeutic Index (NTI) switching. |
+| **M1.5.1** | [**Biowaiver Justification**](./Project_2_PZL_Depot/M1_Admin/M1.5.1_Biowaiver_Justification.pdf) | Scientific argument for waiving Phase III trials via PK bridging. |
+| **M2.4** | [**Non-clinical Overview**](./Project_2_PZL_Depot/M2_Summaries/M2.4_Non_clinical_Overview.pdf) | Pharmacology overview of Zn-T3 coordination and ligand exchange. |
+| **M3.2.S.3** | [**Characterization Report**](./Project_2_PZL_Depot/M3_Quality/M3.2.S.3_Characterization_Report.pdf) | Structural elucidation via PXRD, FTIR, and Elemental Analysis. |
+
+### 📋 Technical Strategy Summary
+| Component | Implementation | Regulatory Rationale |
+| :--- | :--- | :--- |
+| **Mechanism** | Coordination Complex | Controlled release via slow ligand exchange (Hydrolysis). |
+| **Safety** | NTI Management | Suppressed $C_{max}$ to mitigate cardiotoxicity risks. |
+| **Compliance** | ICH Q3D (Zinc) | Justification of metal intake vs. Permitted Daily Exposure (PDE). |
+| **Strategy** | PK Bridging | Utilization of endogenous hormone status to bypass Phase III. |
+
+---
+
 ## 🔬 Technical Toolkit
 | Category | Expertise |
 | :--- | :--- |
-| **Analytical** | ICP-MS, HPLC, NMR, LC-MS, Particle Size Distribution, FTIR, XAS, XFM |
-| **Regulatory** | eCTD, ICH Q3D/Q9/Q1, TGO 91/100, SUSMP Scheduling |
+| **Analytical** | ICP-MS, HPLC, NMR, LC-MS, Particle Size Distribution, FTIR, XAS, XFM, PXRD  |
+| **Regulatory** | eCTD, ICH Q3D/Q9/Q1, TGO 91/100, SUSMP Scheduling, Biowaiver Justification, NTI Management |
 | **Therapeutic** | Antimicrobials, NTI Drugs, Alzheimer's Pharmacology, |
 | **Digital** | GitHub Portfolio Management, Cloud Computing, AI-Driven Documentation, LORENZ docuBridge (Mock) |
 
