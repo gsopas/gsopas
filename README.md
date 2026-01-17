@@ -53,7 +53,7 @@ This project demonstrates a  **Regulatory Strategy**: utilising coordination che
 | **M1.3.1** | [**Product Information (PI)**](https://github.com/gsopas/PZL/blob/main/dossier/M1_Administrative/M1.3.1_Product_information_PZL.pdf) | Clinical guidance for Narrow Therapeutic Index (NTI) switching. |
 | **M1.5.1** | [**Biowaiver Justification**](https://github.com/gsopas/PZL/blob/main/dossier/M1_Administrative/M1.5.1_(Biowaiver).pdf) | Scientific argument for waiving Phase III trials via PK bridging. |
 | **M2.4** | [**Non-clinical Overview**](https://github.com/gsopas/PZL/blob/main/dossier/M2_Summaries/M2.4_Non_clinical_Overview.pdf) | Pharmacology overview of Zn-T3 coordination and ligand exchange. |
-| **M3.2.S.3** | [**Characterization Report**](https://github.com/gsopas/PZL/blob/main/dossier/M3_Quality/M3.2.S.3_Characterization_Report.pdf)) | Structural elucidation via PXRD, FTIR, and Elemental Analysis. |
+| **M3.2.S.3** | [**Characterisation Report**](https://github.com/gsopas/PZL/blob/main/dossier/M3_Quality/M3.2.S.3_Characterization_Report.pdf)) | Structural elucidation via PXRD, FTIR, and Elemental Analysis. |
 
 ### 📋 Technical Strategy Summary
 | Component | Implementation | Regulatory Rationale |
